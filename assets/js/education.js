@@ -6,83 +6,83 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Blockchain Basics",
-    cardImage: "/assets/images/education-page/coursera.png",
+    cardImage: "./assets/images/education-page/coursera.png",
     moocLink: "https://drive.google.com/file/d/16RYWBtFw_ffv_b_FmQZQkFHUc7bLujx9/view?usp=drive_link",
   },
   {
     title: "Computer Networking",
-    cardImage: "/assets/images/education-page/coursera.png",
+    cardImage: "./assets/images/education-page/coursera.png",
     moocLink: "https://drive.google.com/file/d/16uXj3comoLz_Gv2_n15qkkuFpxG6cPhw/view?usp=drive_link",
   },
   {
     title: "Technical IT Support Networking",
-    cardImage: "/assets/images/education-page/coursera.png",
+    cardImage: "./assets/images/education-page/coursera.png",
     moocLink: "https://drive.google.com/file/d/16QUh19DCyt0XWeZQjRe4cxnebzUo9aVO/view?usp=drive_link",
   },
   {
     title: "Exploring Blockchain",
-    cardImage: "/assets/images/education-page/ibm.png",
+    cardImage: "./assets/images/education-page/ibm.png",
     moocLink: "https://drive.google.com/file/d/14tspbR277Sz9fa4LhG9B0V_uqTjnjIZ4/view?usp=drive_link",
   },
   {
     title: "Programming in Java",
-    cardImage: "/assets/images/education-page/nptel.jpeg",
+    cardImage: "./assets/images/education-page/nptel.jpeg",
     moocLink: "https://drive.google.com/file/d/14Xh7W2SAxilZzRfp2kJpo9oSjJnyzxvS/view?usp=drive_link",
   },
   {
     title: "Blockchain and It's Application",
-    cardImage: "/assets/images/education-page/nptel.jpeg",
+    cardImage: "./assets/images/education-page/nptel.jpeg",
     moocLink: "https://drive.google.com/file/d/17dR8MfUxLjt1JFiNk6KXUFtESAHRIWwD/view?usp=drive_link",
   },
   {
     title: "Big Data Computing",
-    cardImage: "/assets/images/education-page/nptel.jpeg",
+    cardImage: "./assets/images/education-page/nptel.jpeg",
     moocLink: "https://drive.google.com/file/d/16Ge9MydPaCN1OTnObl2agRqbiQZvzZy0/view?usp=drive_link",
   },
   {
     title: "Javascript and ReactJs",
-    cardImage: "/assets/images/education-page/ibm.png",
+    cardImage: "./assets/images/education-page/ibm.png",
     moocLink: "https://drive.google.com/file/d/17T_XaaWWfY8vVdgvpT7cZe05PcOGej3K/view?usp=drive_link",
   },
   {
     title: "Programming in C & C++",
-    cardImage: "/assets/images/education-page/spokentutorial.jpeg",
+    cardImage: "./assets/images/education-page/spokentutorial.jpeg",
     moocLink: "https://drive.google.com/file/d/17LCP5-GMe6wCL6oROFSmh9B7snUoabr8/view?usp=drive_link",
   },
   {
     title: "Programming in C",
-    cardImage: "/assets/images/education-page/spokentutorial.jpeg",
+    cardImage: "./assets/images/education-page/spokentutorial.jpeg",
     moocLink: "https://drive.google.com/file/d/17MBSjHy6PKZPY90n01UcYIT0JeQJp1ps/view?usp=drive_link",
   },
   {
     title: "Web Development With HTML",
-    cardImage: "/assets/images/education-page/spokentutorial.jpeg",
+    cardImage: "./assets/images/education-page/spokentutorial.jpeg",
     moocLink: "https://drive.google.com/file/d/172d7iaIMqMvug1RWSyI_BAh6QJt7d4cN/view?usp=drive_link",
   },
    
   {
     title: "Web Development With HTML and CSS",
-    cardImage: "/assets/images/education-page/infosys.png",
+    cardImage: "./assets/images/education-page/infosys.png",
     moocLink:"https://drive.google.com/file/d/17JGC32dIgoQo5fLeC8K3zxhPGR2EF6gA/view?usp=drive_link",
   },
   {
     title: "Blockchain Basics",
-    cardImage: "/assets/images/education-page/linkedin.png",
+    cardImage: "./assets/images/education-page/linkedin.png",
     moocLink:"https://drive.google.com/file/d/14sKUPDOzMKskzTw5AVWutUceUfr4Q-Qr/view?usp=drive_link",
   },
   {
     title: "Smart Contract and Security",
-    cardImage: "/assets/images/education-page/linkedin.png",
+    cardImage: "./assets/images/education-page/linkedin.png",
     moocLink:"https://drive.google.com/file/d/16qirmE_FYBDJ5fU-_BP25CrqNBdueFwS/view?usp=drive_link",
   },
   {
     title: "Web 3.0",
-    cardImage: "/assets/images/education-page/linkedin.png",
+    cardImage: "./assets/images/education-page/linkedin.png",
     moocLink:"https://drive.google.com/file/d/14e4nQyTFfDZKoqUjVU1okkB2ONCWw--D/view?usp=drive_link",
   },
   {
     title: "Introduction to NFT",
-    cardImage: "/assets/images/education-page/linkedin.png",
+    cardImage: "./assets/images/education-page/linkedin.png",
     moocLink:"https://drive.google.com/file/d/14e2yu6qQjwDjg2tRB8cFbijUM0KkU42-/view?usp=drive_link",
   },
 ];
