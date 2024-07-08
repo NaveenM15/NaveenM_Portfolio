@@ -10,7 +10,7 @@ document.body.appendChild(script);
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">     
-<img src="/newimages/dotlogo.jpg" alt="" heigth="80px" width="80px">
+<img src="./newimages/dotlogo.jpg" alt="" heigth="80px" width="80px">
 <a class="navbar-brand" href="index.html"> Naveen </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
